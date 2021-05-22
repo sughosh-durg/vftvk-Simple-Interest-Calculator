@@ -1,1 +1,1 @@
-# coding-project-template
+A simple interest calculator app made as a part of IBM's Introduction to Cloud Development with HTML, CSS, and JavaScript edX course.
